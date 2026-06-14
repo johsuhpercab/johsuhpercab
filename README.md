@@ -1,4 +1,4 @@
-# Buenas ! 👋
+# Buenas 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johsuhpercab/johsuhpercab/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johsuhpercab/johsuhpercab/output/github-snake.svg" />
